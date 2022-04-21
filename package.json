@@ -1,0 +1,12 @@
+{
+  "dependencies": {},
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "reg": "./node_modules/.bin/reg-cli  ./cypress/screenshots/visual-regression-test/before ./cypress/screenshots/visual-regression-test/after ./cypress/screenshots/visual-regression-test/diff -R ./cypress/screenshots/visual-regression-test/report/index.html -U"
+  },
+  "devDependencies": {
+    "cypress": "^9.5.3",
+    "reg-cli": "^0.17.7"
+  }
+}

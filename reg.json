@@ -1,0 +1,1 @@
+{"failedItems":[],"newItems":[],"deletedItems":[],"passedItems":["001.png","002.png"],"expectedItems":["001.png","002.png"],"actualItems":["001.png","002.png"],"diffItems":[],"actualDir":"./cypress/screenshots/visual-regression-test/before","expectedDir":"./cypress/screenshots/visual-regression-test/after","diffDir":"./cypress/screenshots/visual-regression-test/diff"}

@@ -1,0 +1,19 @@
+{
+  "pages":[
+    {
+      "test_id": "001",
+      "uri": "/ranking/"
+    },
+    {
+      "test_id": "002",
+      "uri": "/price/"
+    }
+  ],
+  "viewports": [
+    {
+      "name": "phone",
+      "width": 375,
+      "height": 667
+    }
+  ]
+}
